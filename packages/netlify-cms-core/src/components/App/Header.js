@@ -195,6 +195,7 @@ class Header extends React.Component {
                   </AppHeaderButton>
                 </li>
               )}
+              <div>test</div>
             </AppHeaderNavList>
           </nav>
           <AppHeaderActions>

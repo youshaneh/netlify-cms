@@ -40,7 +40,7 @@
     "netlify-cms-backend-gitlab": "^2.13.0",
     "netlify-cms-backend-proxy": "^1.2.3",
     "netlify-cms-backend-test": "^2.11.3",
-    "netlify-cms-core": "^2.54.5",
+    "netlify-cms-core": "https://gitpkg.now.sh/youshaneh/netlify-cms/packages/netlify-cms-core?master",
     "netlify-cms-editor-component-image": "^2.7.0",
     "netlify-cms-lib-auth": "^2.4.2",
     "netlify-cms-lib-util": "^2.15.0",
